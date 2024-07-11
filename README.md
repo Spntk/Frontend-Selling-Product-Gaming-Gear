@@ -1,5 +1,8 @@
 ## Website ขายเกมมิ่งเกียร์
-
+<span>ออกแบบ Website ในส่วนของ Frontend</span>
+</br>
+<span>ใช้การดึงข้อมูลจาก Product ด้วยการ Fetch จาก JSON File</span>
+  
 **พัฒนาโดยใช้ภาษา**
 <br />
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
